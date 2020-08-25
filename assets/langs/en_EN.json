@@ -1,0 +1,41 @@
+{
+    "planetsName": {
+        "Sun": "Sun",
+        "Mercury": "Mercury",
+        "Venus": "Venus",
+        "Moon": "Moon",
+        "Mars": "Mars",
+        "Jupiter": "Jupiter",
+        "Saturn": "Saturn",
+        "Uranus": "Uranus",
+        "Neptune": "Neptune"
+    },
+    "loading": "Loading datas",
+    "errors": {
+        "noPlanetSelected": "Please select a planet",
+        "noServerConnection": "Server cannot be reach, please verify your connection"
+    },
+    "compassHelper": {
+        "title": "Optimize your phone location",
+        "firstInstruction": "Move your phone to draw a eight in the air and do this three times to optimize your phone location.",
+        "secondInstruction": "Be a meter of more far from metal objects will avoid your gps to be distrubed."
+    },
+    "permissions": {
+        "location": {
+            "title": "Stars tracker App Permission",
+            "message": "Stars tracker App needs access to your current location to track stars from your current location",
+            "buttonNeutral": "Ask Me Later",
+            "buttonNegative": "Cancel",
+            "buttonPositive": "Ok",
+            "userDenied" : "The location access resquest has been denied, without the access this application cannot work.",
+            "allowAccess" : "Allow location access",
+            "neverAskAgain" : "As you choosed to never be asked again for a location request, if you want to enable the location you have to follow theses steps.",
+            "openAppSettings" : "Open app settings",
+            "stepsToEnableLocation" : {
+                "first" : "Click on the below button to open the app settings",
+                "second" : "Click on permissions",
+                "third" : "Click on Location and allow the location"
+            }
+        }
+    }
+}

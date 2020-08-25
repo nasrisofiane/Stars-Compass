@@ -1,0 +1,41 @@
+{
+    "planetsName": {
+        "Sun": "太陽",
+        "Mercury": "水星",
+        "Venus": "金星",
+        "Moon": "月",
+        "Mars": "火星",
+        "Jupiter": "木星",
+        "Saturn": "土星",
+        "Uranus": "天王星",
+        "Neptune": "海王星"
+    },
+    "loading": "ローディング",
+    "errors": {
+        "noPlanetSelected": "惑星を選んでください",
+        "noServerConnection": "インターネットの接続が不安定です。"
+    },
+    "compassHelper": {
+        "title": "GPSが有効になっているか確認して下さい。",
+        "firstInstruction": "位置情報を明確にする為に携帯電話を８の字に動かしてください。",
+        "secondInstruction": "GPSがずれるといった不具合を対処するために金属などの電波を妨害する物などから1M距離を取ってください。"
+    },
+    "permissions": {
+        "location": {
+            "title": "スター トラッカー アプリ パーミッション",
+            "message": "スタートラッカーアプリは、現在地から惑星をピンポイントで見つけるために位置情報を有効にする必要があります。",
+            "buttonNeutral": "後ほど",
+            "buttonNegative": "キャンセル",
+            "buttonPositive": "Ok",
+            "userDenied": "位置情報へのアクセス要求は拒否されました。アクセスがないと、このアプリケーションは機能しません。",
+            "allowAccess": "位置情報へのアクセスを許可",
+            "neverAskAgain": "位置情報へのアクセスを今後要求されないように選択したので、場所を有効にしたい場合は、次の手順に従う必要があります。",
+            "openAppSettings": "アプリのセッティング",
+            "stepsToEnableLocation": {
+                "first": "下のボタンをクリックしてアプリの設定を開きます。",
+                "second": "権限をクリックします。",
+                "third": "位置情報 有効 をクリックします。"
+            }
+        }
+    }
+}

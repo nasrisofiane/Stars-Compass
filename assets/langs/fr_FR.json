@@ -1,0 +1,41 @@
+{
+    "planetsName": {
+        "Sun": "Soleil",
+        "Mercury": "Mercure",
+        "Venus": "Venus",
+        "Moon": "Lune",
+        "Mars": "Mars",
+        "Jupiter": "Jupiter",
+        "Saturn": "Saturne",
+        "Uranus": "Uranus",
+        "Neptune": "Neptune"
+    },
+    "loading": "Chargement des données",
+    "errors": {
+        "noPlanetSelected": "S'il vous plaît, séléctionnez une planète",
+        "noServerConnection": "Le serveur ne répond pas, vérifiez votre connexion internet"
+    },
+    "compassHelper": {
+        "title": "Optimisez votre localisation",
+        "firstInstruction": "Tracez un huit avec votre téléphone, faites le trois fois pour optimiser votre localisation.",
+        "secondInstruction": "Être à un mètre ou plus des objets métallique évitera au gps d'être désorienté."
+    },
+    "permissions": {
+        "location": {
+            "title": "Permission de Stars Tracker",
+            "message": "Stars Tracker a besoin de l'accès à votre localisation actuelle pour tracer les étoiles depuis votre emplacement",
+            "buttonNeutral": "Plus tard",
+            "buttonNegative": "Annuler",
+            "buttonPositive": "D'accord",
+            "userDenied": "L'accès à la localisation a été refusé, cette application ne fonctionnera pas sans la localisation",
+            "allowAccess": "Autoriser la localisation",
+            "neverAskAgain": "Vous avez choisis de ne plus recevoir de notification de demande d'accès à la localisation, si vous voulez activer la localisation il faut suivre les étapes suivantes.",
+            "openAppSettings": "Ouvrir les paramètres",
+            "stepsToEnableLocation": {
+                "first": "Cliquez sur le bouton en dessous.",
+                "second": "Cliquez sur les permissions.",
+                "third": "Cliquez sur la localisation et autorisez la."
+            }
+        }
+    }
+}
