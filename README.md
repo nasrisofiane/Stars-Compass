@@ -12,7 +12,7 @@ With this feature you have the feeling to target a planet with your finger.
 The project has been developed with the following technologies : 
 
  - React Native
-	 - Packages
+	- Packages
 		 - react-sensors
 		 - react-native-splash-screen
 		 - react-native-screens
